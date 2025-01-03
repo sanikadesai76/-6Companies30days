@@ -77,3 +77,14 @@ public:
         return resultIndex + 1;
     }
 };
+
+/*
+quite intersting
+
+Historical Background:
+Flavius Josephus was involved in the Jewish-Roman War (66–70 AD). According to historical accounts, he and a group of 40 soldiers were trapped in a cave, surrounded by Romans. To avoid capture, the group decided to commit mass suicide in a particular sequence.
+
+They arranged themselves in a circle, and every 
+𝑘
+k-th person was executed until only one person remained. Josephus, not wanting to die, cleverly positioned himself to be the last survivor.
+*/
